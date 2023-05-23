@@ -1,0 +1,23 @@
+[
+	{
+		"name": "GDHM",
+		"author": "adafcaefc",
+		"description": "Free Mod Menu by adaf. Conatains free version of TASBot with watermark. On start opens adaf's youtube channel.",
+		"slug": "gdhm",
+		"available": true
+	},
+	{
+		"name": "GDH",
+		"author": "tobyadd",
+		"description": "FOSS Mod Menu by tobyadd. Contains bare minimum for comfort playing. Currently not being developed.",
+		"slug": "gdh",
+		"available": true
+	},
+	{
+		"name": "GDMegaOverlay",
+		"author": "maxnut",
+		"description": "FOSS Mod Menu by maxnut. Contains allota features and can be compared to paid MegaHack. Preffered over all free mod menus.",
+		"slug": "megaoverlay",
+		"available": true
+	}
+]
