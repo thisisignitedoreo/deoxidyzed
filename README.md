@@ -6,4 +6,5 @@ It alse has launcher and online mod repository. If you want upload a mod here co
 
 ## Quickstart
 ~~[Download launcher](https://github.com/thisisignitedoreo/deoxidyzedlauncher/releases/latest) and run it. It's fairly straightforward then.~~
+
 it's currently not yet available :^(
