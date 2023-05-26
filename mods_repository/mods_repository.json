@@ -1,9 +1,87 @@
 [
 	{
+		"name": "Abbreviated Labels",
+		"author": "iAndyHD3",
+		"description": "Changes numbers such as \"100000\" to \"100k\".",
+		"slug": "abbreviated-labels",
+		"available": true
+	},{
+		"name": "Auto Pause",
+		"author": "Alphalaneous",
+		"description": "A simple mod that makes the game automatically pause when losing focus or resizing in windowed mode.",
+		"slug": "auto-pause",
+		"available": true
+	},{
+		"name": "Better Edit",
+		"author": "HJFod",
+		"description": "A ton of fixes and improvements in the editor.",
+		"slug": "better-edit",
+		"available": true
+	},{
+		"name": "Better Info",
+		"author": "Cvolton",
+		"description": "Adds a lot of extra info to the game.",
+		"slug": "better-info",
+		"available": true
+	},{
+		"name": "Better Pause",
+		"author": "TpdEA",
+		"description": "This mod improves the pause mode with new additions, such as quick settings, directly built-in quest menu and improved volume settings.",
+		"slug": "better-pause",
+		"available": true
+	},{
+		"name": "Better Save",
+		"author": "Alphalaneous",
+		"description": "Auto save profile info to server after exiting the game.",
+		"slug": "better-save",
+		"available": true
+	},{
+		"name": "Bonk",
+		"author": "config",
+		"description": "Funny mod that plays a bonk sound whenever you bonk your head against a solid object.",
+		"slug": "bonk",
+		"available": true
+	},{
+		"name": "Checkpoint Fix",
+		"author": "Figment",
+		"description": "Fix checkpoint momentum.",
+		"slug": "checkpoint-fix",
+		"available": true
+	},{
+		"name": "Clipboard Fix",
+		"author": "adafcaefc",
+		"description": "Fix copying ID in the level description.",
+		"slug": "clipboard-fix",
+		"available": true
+	},{
+		"name": "Demons in Garage",
+		"author": "Alphalaneous",
+		"description": "Add demons to icon select screen.",
+		"slug": "demons-in-garage",
+		"available": true
+	},{
+		"name": "Fade music on death",
+		"author": "config",
+		"description": "Makes music not just stop after a death but fades it like in osu!.",
+		"slug": "fade-music-on-death",
+		"available": true
+	},{
 		"name": "GDH",
 		"author": "tobyadd",
 		"description": "FOSS Mod Menu by tobyadd. Contains bare minimum for comfort playing. Currently not being developed.",
 		"slug": "gdh",
+		"available": true
+	},{
+		"name": "GDShare",
+		"author": "HJFod",
+		"description": "Save levels to files.",
+		"slug": "gdshare",
+		"available": true
+	},{
+		"name": "Low Capacity Fix",
+		"author": "Cvolton",
+		"description": "Fixes optimisation issue that rub broke.",
+		"slug": "low-capacity-fix",
 		"available": true
 	}
 ]
