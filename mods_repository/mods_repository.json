@@ -78,10 +78,52 @@
 		"slug": "gdshare",
 		"available": true
 	},{
+		"name": "Geometry Cache",
+		"author": "config",
+		"description": "Use .qoi compression instread of .png.",
+		"slug": "geometry-cache",
+		"available": true
+	},{
+		"name": "Icon Kit Saver",
+		"author": "HJFod",
+		"description": "Save icon kits of other players and load them anytime.",
+		"slug": "icon-save",
+		"available": true
+	},{
+		"name": "Input Lag Fix",
+		"author": "syzzi",
+		"description": "Fix Geometry Dash 1 frame input lag.",
+		"slug": "input-lag",
+		"available": true
+	},{
+		"name": "Invisible Dual Fix",
+		"author": "HJFod",
+		"description": "Fixes the other icon sometimes being invisible while in a dual.",
+		"slug": "invisible-dual-fix",
+		"available": true
+	},{
 		"name": "Low Capacity Fix",
 		"author": "Cvolton",
 		"description": "Fixes optimisation issue that rub broke.",
 		"slug": "low-capacity-fix",
+		"available": true
+	},{
+		"name": "Menu Shaders",
+		"author": "MatCool",
+		"description": "Allows you to cahnge menu background to shader.",
+		"slug": "low-capacity-fix",
+		"available": true
+	},{
+		"name": "Orb Fix",
+		"author": "MatCool",
+		"description": "Fixes orbs not being pressed in practice mode, only useful for zBot as most bots have it included.",
+		"slug": "orb-fix",
+		"available": true
+	},{
+		"name": "TextureLDR",
+		"author": "poweredbypie",
+		"description": "Adds texture pack managment like in minecraft.",
+		"slug": "textureldr",
 		"available": true
 	}
 ]
